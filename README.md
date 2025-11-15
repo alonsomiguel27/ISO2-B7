@@ -1,4 +1,4 @@
-> **Note**  
+> [!NOTE]
 > Toda la documentación sobre el proyecto se encuentra en nuestra [Wiki](../../wiki).
 
 # ISO_25-ISO2-B7
@@ -20,5 +20,6 @@
 
 Proyecto desarrollado para la asignatura **Ingeniería del Software II (ISO II)**  
 **Universidad de Castilla-La Mancha — Escuela Superior de Informática (ESI)**
+
 
 
