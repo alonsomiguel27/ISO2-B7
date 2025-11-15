@@ -1,7 +1,7 @@
 > **Note**  
-> Toda la documentación sobre el proyecto se encuentra en nuestra Wiki.
+> Toda la documentación sobre el proyecto se encuentra en nuestra [Wiki](../../wiki).
 
-# ISO_24-ISO2-B7
+# ISO_25-ISO2-B7
 
 ## Integrantes del Proyecto
 
@@ -20,4 +20,5 @@
 
 Proyecto desarrollado para la asignatura **Ingeniería del Software II (ISO II)**  
 **Universidad de Castilla-La Mancha — Escuela Superior de Informática (ESI)**
+
 
