@@ -1,4 +1,4 @@
-package Cliente;
+//package Cliente;
 
 public class GestionUsuarioView {
 	private List<UsuarioDTO> _usuarios;
