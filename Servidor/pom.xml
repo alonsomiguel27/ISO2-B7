@@ -6,5 +6,6 @@
   <packaging>pom</packaging>
   <name>Servidor</name>
   <modules>
+    <module>componente02_cdu19</module>
   </modules>
 </project>
