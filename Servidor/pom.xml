@@ -5,6 +5,13 @@
   <version>0.1.0-SNAPSHOT</version>
   <packaging>pom</packaging>
   <name>Servidor</name>
+  
+  <properties>
+    <maven.compiler.source>17</maven.compiler.source>
+    <maven.compiler.target>17</maven.compiler.target>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+  </properties>
+  
   <modules>
     <module>componente01_cdu18</module>
     <module>componente02_cdu19</module>
@@ -26,5 +33,6 @@
     <module>componente21_cdu6</module>
     <module>componente23_cdu11</module>
     <module>componente24_cdu14</module>
+    <module>componente26_cdu16</module>
   </modules>
 </project>
