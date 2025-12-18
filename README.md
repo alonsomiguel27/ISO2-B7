@@ -16,10 +16,10 @@
 
 ---
 
-## 🔗 Repositorios de los problemas de testing
-[REPOSITORIO PROBLEMA 1](https://github.com/Maanu24sc/ISO2-2025-GrupoB7-Testing-P1)
-[REPOSITORIO PROBLEMA 2](https://github.com/arturodomenechh/ISO-2025-GRUPO-B7-Testing-P2)
-[REPOSITORIO PROBLEMA 3](https://github.com/alonsomiguel27/ISO2-2025-GRUPOB7-TESTING-P3)
+## 🔗 Enlaces repositorios
+| Repositorio Problema 1 | Repositorio Problema 2 | Repositorio Problema 3 |
+| :---: | :---: | :---: |
+| [![Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com/Maanu24sc/ISO2-2025-GrupoB7-Testing-P1) | [![Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com/arturodomenechh/ISO-2025-GRUPO-B7-Testing-P2) | [![Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com/alonsomiguel27/ISO2-2025-GRUPOB7-TESTING-P3) |
 
 ## 📣 Créditos
 
