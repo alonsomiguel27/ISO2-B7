@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>es.UCLM.esi.ISO2.B7</groupId>
+  <artifactId>Cliente</artifactId>
+  <version>0.1.0-SNAPSHOT</version>
+  <packaging>pom</packaging>
+  <name>Cliente</name>
+  <modules>
+    <module>componente01_cdu18</module>
+    <module>componente02_cdu19</module>
+    <module>componente03_cdu20</module>
+    <module>componente04_cdu21</module>
+    <module>componente05_cdu23</module>
+    <module>componente06_cdu24</module>
+    <module>componente11_cdu1</module>
+    <module>componente12_cdu2</module>
+    <module>componente14_cdu4</module>
+    <module>componente15_cdu5</module>
+    <module>componente15_cdu5</module>
+    <module>componente17_cdu8</module>
+    <module>componente18_cdu9</module>
+    <module>componente20_cdu13</module>
+    <module>componente21_cdu6</module>
+    <module>componente23_cdu11</module>
+    <module>componente24_cdu14</module>
+    <module>componente26_cdu16</module>
+    <module>componente27_cdu17</module>
+  </modules>
+</project>
